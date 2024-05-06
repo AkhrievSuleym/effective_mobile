@@ -20,7 +20,7 @@ if __name__ == "__main__":
         match option:
             case 1:
                 print(f"Баланс: {balance}\n"
-                      f"Доходы: {income}\n"
+                      f"Доход: {income}\n"
                       f"Расход: {expenses}\n")
             case 2:
                 last_id += 1
